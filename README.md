@@ -1,2 +1,2 @@
 # GastroKapadokyaWebsite
-https://efsanalbayrak.github.io/gastroKapadokya/
+https://efsanalbayrak.github.io/GastroKapadokyaWebsite/
